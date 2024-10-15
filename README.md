@@ -1,5 +1,3 @@
-# yasamino.github.io
-
 ## Background 
 
 ### Topic 1
